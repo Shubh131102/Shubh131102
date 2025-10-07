@@ -1,5 +1,5 @@
 # Hi, I'm Shubham Jangle 
-**Robotics Engineer (MS @ UCR, Mar 2026)** — I build autonomous systems end-to-end: ROS/ROS2 software, AI/ML for navigation & perception, and practical control.
+**Robotics Engineer (MS @ UCR)** — I build autonomous systems end-to-end: ROS/ROS2 software, AI/ML for navigation & perception, and practical control.
 
 - 🔭 Current: Indoor navigation via behavior cloning (ROS2 + ML)
 - 🧠 Core stack: ROS/ROS2, Nav2, OpenCV, scikit-learn/PyTorch, LiDAR, PID/MPC
