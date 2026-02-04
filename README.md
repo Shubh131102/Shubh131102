@@ -1,17 +1,43 @@
-# Hi, I'm Shubham Jangle 
-**Robotics Engineer (MS @ UCR)** — I build autonomous systems end-to-end: ROS/ROS2 software, AI/ML for navigation & perception, and practical control.
+# Hi, I'm Shubham Jangle
 
-- 🔭 Current: Indoor navigation via behavior cloning (ROS2 + ML)
-- 🧠 Core stack: ROS/ROS2, Nav2, OpenCV, scikit-learn/PyTorch, LiDAR, PID/MPC
-- 📫 sjang041@ucr.edu · [LinkedIn](https://www.linkedin.com/in/shubham-jangle-43081b27a/) · [Portfolio](https://design-portfolio-194.preview.emergentagent.com/) · [Resume (PDF)](./docs/Shubham_Jangle_Robotics_Engineer_Resume.pdf)
+**Robotics Engineer** (MS @ UC Riverside) — I build autonomous systems end-to-end: ROS/ROS2 software, AI/ML for navigation & perception, and practical control systems.
+
+## What I'm Working On
+- **Current:** Uncertainty-aware indoor navigation using imitation learning (ROS2 + PyTorch)
+- **Recent:** MS in Robotics Engineering from UC Riverside (Dec 2025)
+- **Focus:** Autonomous navigation, SLAM, sensor fusion, and real-time control
+
+## Core Tech Stack
+**Robotics:** `ROS/ROS2` · `Nav2` · `Gazebo` · `Webots` · `MuJoCo`  
+**Perception:** `LiDAR` · `OpenCV` · `Camera Calibration` · `Sensor Fusion`  
+**AI/ML:** `PyTorch` · `scikit-learn` · `Imitation Learning` · `Behavioral Cloning`  
+**Control:** `PID` · `MPC` · `State Estimation` · `Path Planning`  
+**Hardware:** `Arduino` · `ESP32` · `Raspberry Pi` · `STM32`
 
 ## Featured Projects
-- **Imitation Learning — Indoor Nav (ROS2)** → [repo](https://github.com/Shubh131102/imitation-nav-ros2)
-- **BFMC Indoor Autonomy (ROS2 + RPi)** → [repo](https://github.com/Shubh131102/bfmc-indoor-autonomy)
-- **Spider Quadruped Scout (12-DOF)** → [repo](https://github.com/Shubh131102/spider-quadruped-scout)
-- **Bio-Inspired AUV (PID + Fusion)** → [repo](https://github.com/Shubh131102/bio-inspired-auv)
 
-### Skills
-`ROS/ROS2` · `Nav2` · `LiDAR` · `OpenCV` · `scikit-learn` · `PyTorch` · `Gazebo/Webots` · `PID/MPC` · `Arduino/ESP32`
+### [Uncertainty-Aware Indoor Navigation](https://github.com/Shubh131102/imitation-nav-ros2)
+Imitation learning + Monte Carlo Dropout for safe autonomous navigation  
+`ROS2` · `PyTorch` · `DAgger` · `LiDAR` · `Nav2`
 
-> I love turning research ideas into deployable, real-time systems.
+### [BFMC Autonomous Vehicle](https://github.com/Shubh131102/bfmc-indoor-autonomy)
+Traffic-aware autonomous navigation with FSM control and traffic sign detection  
+`ROS2` · `Raspberry Pi` · `CNN` · `Sensor Fusion`
+
+### [12-DOF Quadruped Robot](https://github.com/Shubh131102/Spider-Robot-WiFi-Enabled-Quadruped-Scouting-Robot)
+Bio-inspired walking robot with inverse kinematics and gait planning  
+`Arduino` · `Servo Control` · `Kinematics` · `Custom PCB`
+
+### [Biomimetic Underwater Vehicle](https://github.com/Shubh131102/bio-inspired-auv)
+AUV with undulatory fin propulsion and multi-sensor fusion  
+`PID Control` · `Arduino` · `IMU` · `Depth Sensing`
+
+## Let's Connect
+- Email: **sjang041@ucr.edu**
+- LinkedIn: [linkedin.com/in/shubhamjangle](https://www.linkedin.com/in/shubham-jangle-43081b27a/)
+- Portfolio: (https://design-portfolio-194.preview.emergentagent.com)
+- Resume: [PDF](link-to-resume)
+
+---
+
+💡 *I love turning research ideas into deployable, real-time robotic systems.*
